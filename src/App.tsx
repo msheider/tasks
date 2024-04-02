@@ -22,8 +22,8 @@ function App(): JSX.Element {
     return (
         <div className="App">
             <header className="App-header">
-                Diya Shah - UD CISC275 with React Hooks and TypeScript - Hello
-                World!
+                Melanie Heider - UD CISC275 with React Hooks and TypeScript -
+                Hello World!
             </header>
             <hr></hr>
             {<DoubleHalf></DoubleHalf>}
